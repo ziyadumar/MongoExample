@@ -1,0 +1,10 @@
+C:\Users\ZIYAD\Desktop\Bubbles\bin\Debug\netcoreapp2.0\Bubbles.deps.json
+C:\Users\ZIYAD\Desktop\Bubbles\bin\Debug\netcoreapp2.0\Bubbles.runtimeconfig.json
+C:\Users\ZIYAD\Desktop\Bubbles\bin\Debug\netcoreapp2.0\Bubbles.runtimeconfig.dev.json
+C:\Users\ZIYAD\Desktop\Bubbles\bin\Debug\netcoreapp2.0\Bubbles.dll
+C:\Users\ZIYAD\Desktop\Bubbles\bin\Debug\netcoreapp2.0\Bubbles.pdb
+C:\Users\ZIYAD\Desktop\Bubbles\obj\Debug\netcoreapp2.0\Bubbles.csproj.CoreCompileInputs.cache
+C:\Users\ZIYAD\Desktop\Bubbles\obj\Debug\netcoreapp2.0\Bubbles.AssemblyInfoInputs.cache
+C:\Users\ZIYAD\Desktop\Bubbles\obj\Debug\netcoreapp2.0\Bubbles.AssemblyInfo.cs
+C:\Users\ZIYAD\Desktop\Bubbles\obj\Debug\netcoreapp2.0\Bubbles.dll
+C:\Users\ZIYAD\Desktop\Bubbles\obj\Debug\netcoreapp2.0\Bubbles.pdb
